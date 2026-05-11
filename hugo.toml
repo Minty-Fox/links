@@ -9,3 +9,7 @@ theme = 'terminal'
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+
+[languages.en.params.logo]
+    logoText = "~$ cat welcome.html"
+            
