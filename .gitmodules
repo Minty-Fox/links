@@ -1,0 +1,3 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/minty-fox/hugo-theme-terminal.git
