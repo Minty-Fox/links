@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mintys Links</title>
-    <link>http://192.168.50.13:1313/posts/</link>
+    <link>https://links.mintyfox.gay/posts/</link>
     <description>Recent content in Posts on Mintys Links</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://192.168.50.13:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://links.mintyfox.gay/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minty the Fox</title>
-      <link>http://192.168.50.13:1313/posts/main/</link>
+      <link>https://links.mintyfox.gay/posts/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.50.13:1313/posts/main/</guid>
-      <description>&lt;p&gt;&#xA;    I do photography and stuff sometimes.&#xA;&lt;/p&gt;&#xA;&#xA;&lt;a href=&#34;#&#34; class=&#34;social-button&#34;&gt;&#xA;    &lt;i class=&#34;fa-brands fa-github-square&#34;&gt;&lt;/i&gt;&#xA;    Button&#xA;&lt;/a&gt;&#xA;&lt;a href=&#34;#&#34; class=&#34;social-button&#34;&gt;Button&lt;/a&gt;</description>
+      <guid>https://links.mintyfox.gay/posts/main/</guid>
+      <description>&lt;p&gt;&#xA;    I do photography and stuff sometimes.&#xA;&lt;/p&gt;&#xA;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://x.com/Minty021&#34; class=&#34;social-button&#34;&gt;&#xA;    &lt;i class=&#34;fa-brands fa-x-twitter&#34;&gt;&lt;/i&gt;&#xA;    &lt;p&gt;Twitter&lt;/p&gt;&#xA;&lt;/a&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://www.furtrack.com/user/MintyFox/photography&#34; class=&#34;social-button&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34;&gt;&lt;/i&gt;&#xA;    &lt;p&gt;FurTrack&lt;/p&gt;&#xA;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
